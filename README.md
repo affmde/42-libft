@@ -1,5 +1,5 @@
 # <center>Libft - 42 School project</center>
-## Description
+## <img src="https://cdn-icons-png.flaticon.com/128/3356/3356068.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="40" height="40" /> Description
 This is the first project from the 42 school program.
 In this project we are expected to replicate some system functions that will be used in our later projects.
 <br>
@@ -10,9 +10,8 @@ In this project we are expected to replicate some system functions that will be 
 <br>
 <br>
 <br>
-<img align="left" width="80" height="80" src="https://cdn-icons-png.flaticon.com/128/675/675579.png" alt="Resume application project app icon">
 
-# Usage
+# <img src="https://cdn-icons-png.flaticon.com/128/627/627495.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="40" height="40" /> Usage
 
 ## *Requirements:*
 
@@ -33,3 +32,14 @@ The library is written in C, so it needs the gcc compiler as well has the librar
 **3- When compile don´t forget to add it:**
 
     -L. -lft -I libft.h
+
+<br><br>
+
+# <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="40" height="40" /> Testing
+
+## **External testers:**
+    
++ [Warm macinhe](https://github.com/0x050f/libft-war-machine)
++ [libftTester](https://github.com/Tripouille/libftTester)
++ [libft-unit-test](https://github.com/alelievr/libft-unit-test)
+
