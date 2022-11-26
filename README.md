@@ -8,8 +8,7 @@ In this project we are expected to replicate some system functions that will be 
 [![My Skills](https://skills.thijs.gg/icons?i=c)](https://skills.thijs.gg)
 <br>
 <br>
-<br>
-<br>
+
 
 # <img src="https://cdn-icons-png.flaticon.com/128/627/627495.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="40" height="40" /> Usage
 
