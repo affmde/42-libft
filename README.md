@@ -10,7 +10,7 @@ In this project we are expected to replicate some system functions that will be 
 <br>
 <br>
 <br>
-<img align="left" width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/675/675579.png" alt="Resume application project app icon">
+<img align="left" width="80" height="80" src="https://cdn-icons-png.flaticon.com/128/675/675579.png" alt="Resume application project app icon">
 
 # Usage
 
