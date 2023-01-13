@@ -37,8 +37,8 @@ The library is written in C, so it needs the gcc compiler as well has the librar
 # <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="40" height="40" /> Testing
 
 ## **External testers:**
-    
-+ [Warm macinhe](https://github.com/0x050f/libft-war-machine)
+
++ [War machine](https://github.com/0x050f/libft-war-machine)
 + [libftTester](https://github.com/Tripouille/libftTester)
 + [libft-unit-test](https://github.com/alelievr/libft-unit-test)
 
